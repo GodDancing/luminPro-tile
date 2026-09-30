@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LuminPro 磁贴</string>
+    <string name="tile_label">亮度锁定</string>
+
+    <string name="notif_channel_name">亮度锁定</string>
+    <string name="notif_channel_desc">亮度锁定时显示常驻通知</string>
+    <string name="notif_title">亮度已锁定</string>
+    <string name="notif_stop">解除锁定</string>
+
+    <string name="stopped_by_user">锁定已由用户关闭</string>
+</resources>

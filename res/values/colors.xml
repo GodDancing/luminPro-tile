@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg">#FF0B1020</color>
+    <color name="surface">#FF151B2E</color>
+    <color name="surface_alt">#FF1E2740</color>
+    <color name="stroke">#FF2C3757</color>
+
+    <color name="brand">#FFFFC24B</color>
+    <color name="brand_ink">#FF241A00</color>
+
+    <color name="text">#FFE8ECF7</color>
+    <color name="text_dim">#FF9AA4BF</color>
+
+    <color name="ok">#FF4ADE80</color>
+    <color name="warn">#FFFBBF24</color>
+    <color name="err">#FFF87171</color>
+
+    <color name="ic_launcher_background">#FF0B1020</color>
+</resources>
